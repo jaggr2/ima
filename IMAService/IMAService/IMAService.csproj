@@ -50,7 +50,6 @@
     <Folder Include="Database\ODBC\" />
     <Folder Include="MessageSystem\" />
     <Folder Include="Trigger\" />
-    <Folder Include="WMI\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
