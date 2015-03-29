@@ -1,3 +1,3 @@
 # ima
 
-Infrastructure  Management Anywhere
+Infrastructure Monitoring Anywhere
